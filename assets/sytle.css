@@ -122,8 +122,8 @@
   }
 
   #image1 {
-    flex: 1 1 550px;
-    min-width: 300px;
+    flex: 1 1 900px;
+
   }
 
   @media screen and (max-width: 992px) {
