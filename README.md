@@ -21,3 +21,9 @@ Images obtained from https://www.pexels.com/
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Deployed Application
+https://hunterthompson025.github.io/M2homework-HTML5-CSS3-Portfolio/
+
+## Screenshot of Application
+![Portfolio Website](https://github.com/hunterthompson025/M2homework-HTML5-CSS3-Portfolio/assets/163206449/8f025d50-233f-4a52-835b-a35e974b6c17)
